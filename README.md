@@ -45,9 +45,7 @@ The dashboard provides insights related to:
 ## 📸 Dashboard Preview
 # 🌦️ Weather Analysis Dashboard
 
-![Dashboard Preview](https://github.com/aniketBA572/power-bi-weather-analysis-dashboard/blob/main/Screenshot%202026-05-08%20212339.png)
-
-## 📊 Power BI Weather Analysis Project
+![Dashboard Preview](https://github.com/aniketBA572/power-bi-weather-analysis-dashboard/blob/main/Screenshot%202026-05-08%20212339.png
 
 ---
 
